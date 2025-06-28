@@ -1,32 +1,48 @@
-# I'm Emily Ridge
-
-I'm a software developer focused on building meaningful products with clean UI, real-world impact, and scalable backend architecture.
-
-- 🛠 **Current project:** [PurposeTheApp](https://purposetheapp.com) — a social impact platform built with SwiftUI + Firebase
-- 📱 iOS development using **SwiftUI**, **Firebase**, and **Cloud Functions**
-- ☁️ Backend: Firestore, REST APIs, Firebase Auth, FCM
-- 🧠 Interests: user-centered design, notifications & routing logic, meaningful digital tools
+<h1 align="center">Emily Ridge</h1>
+<p align="center">
+  iOS engineer building meaningful, user-centered apps with SwiftUI & Firebase  
+</p>
 
 ---
 
-## 🔒 Projects
+## 🧭 About Me
 
-Most of my work is currently private as it's in production or under active development.  
-Here's a look at what I'm working on:
-
-- **PurposeTheApp (iOS):**  
-  Community-driven app for small actions with shared meaning  
-  - Features: goal tracking, completion flow, push notifications, universal links
-  - Stack: SwiftUI • Firebase Auth • Firestore • FCM • Cloud Functions • GitHub CI/CD
-
-- **Cherry Stem Development:**  
-  My personal development brand, where I build and deploy mission-driven tools.
+- B.S. in Computer Science  
+- Focused on intuitive UX and purposeful design  
+- Experienced in SwiftUI, Firebase, REST APIs, Python, C++, and full-stack development  
+- Recently launched [PurposeTheApp](https://purposetheapp.com) — now live on the App Store  
 
 ---
 
-## 📫 Let's Connect
+## 🛠 Projects
 
-- [LinkedIn](https://www.linkedin.com/in/emily-ridge11)
-- [PurposeTheApp.com](https://purposetheapp.com)
-- Email: emilyridge0011@gmail.com
+### 📱 [PurposeTheApp](https://purposetheapp.com)  
+A community contribution app built natively in SwiftUI + Firebase.  
+**Features:**
+- Deep link routing  
+- Push notifications (FCM)  
+- Modular MVVM architecture  
+- Cloud Functions  
+- GitHub CI/CD deployment  
 
+### 🌐 PWebDev *(Private)*  
+Custom web project using HTML/CSS — focused on a clean, responsive UI for a small business client.
+
+### 🧩 JanP2 *(Private)*  
+Advanced SwiftUI prototype for managing Purpose-based community logic.  
+Includes Firestore integration, goal tracking, and real-time updates.
+
+---
+
+## 🧰 Tech Stack
+
+`SwiftUI` • `Firebase Auth` • `Firestore` • `Cloud Functions`  
+`REST APIs` • `FCM` • `GitHub CI/CD` • `HTML/CSS` • `Python` • `C++`
+
+---
+
+## 🌐 Links
+
+- [LinkedIn](https://www.linkedin.com/in/emily-ridge11/)  
+- [PurposeTheApp.com](https://purposetheapp.com)  
+- ✉️ emilyridge0011@gmail.com
